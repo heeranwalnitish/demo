@@ -1,3 +1,6 @@
+#This is a code written in Python to write the letter of my name NITISH.
+
+
 x =10
 for row in range(x):
     #code for letter N
